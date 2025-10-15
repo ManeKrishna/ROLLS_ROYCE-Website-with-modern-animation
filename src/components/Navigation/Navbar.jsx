@@ -24,7 +24,7 @@ const Navbar = () => {
         <div className='z-4 fixed top-0 w-full h-17 flex justify-between items-start'>
 
             <Link to='/' ><div className='logo p-4'>
-                <img src={logosrc} alt="check icon" className="w-11 h-11 " />
+                <img src={logosrc} alt="check icon" className="lg:w-11 lg:h-11 h-9 w-9 " />
             </div>
             </Link>
 
@@ -34,11 +34,11 @@ const Navbar = () => {
                 onMouseLeave={() => {
                     NavBarRef.current.style.height = "0%"
                 }}
-                className='h-[6vh] group w-[16vw] relative'>
+                className='lg:h-[6vh] h-[5vh] group w-[16vw] relative'>
                 <div className='h-full w-full bg-black flex justify-center items-center'>
                     <div className='flex flex-col gap-1.5'>
-                        <div className='w-16 group-hover:bg-black z-40 h-[0.2vh] bg-white rounded'></div>
-                        <div className='w-12 group-hover:bg-black z-40 h-[0.2vh] bg-white rounded'></div>
+                        <div className='lg:w-16 w-10 group-hover:bg-black z-40 h-[0.2vh] bg-white rounded'></div>
+                        <div className='lg:w-12 w-7 group-hover:bg-black z-40 h-[0.2vh] bg-white rounded'></div>
                     </div>
                 </div>
                 <div ref={NavBarRef} className='transition-all z-30 w-full bg-orange-600 flex items-center justify-center top-0 absolute h-0'>
