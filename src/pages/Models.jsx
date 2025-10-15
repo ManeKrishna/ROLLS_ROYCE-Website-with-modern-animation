@@ -48,7 +48,7 @@ const Models = () => {
       <div className='lg:-mt-10 mt-0 lol'>
         {models.map((elem, idx) => {
           return (
-            <div key={idx} className='hero h-auto md:h-[400px] w-full flex flex-col md:flex-row gap-3 mb-3'>
+            <div key={idx} className='hero h-400px md:h-[400px] w-full flex flex-col md:flex-row gap-3 mb-3'>
               <ModelsCard image1={elem.image1} image2={elem.image2} />
             </div>
           )
