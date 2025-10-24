@@ -106,15 +106,15 @@ const FullScreenNav = () => {
                         <div className='moveLink absolute text-black flex bg-orange-600 top-0 '>
                             <div className='moveX flex items-center  border-t-[0.1vh] border-white'>
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>Models of Excellence</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 1.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 1.png" alt="" />
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>Models of Excellence</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 2.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 2.png" alt="" />
                             </div>
                             <div className='moveX flex items-center  border-t-[0.1vh] border-white'>
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>Models of Excellence</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 1.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 1.png" alt="" />
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>Models of Excellence</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 2.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 2.png" alt="" />
                             </div>
                         </div>
                     </div></Link>
@@ -123,15 +123,15 @@ const FullScreenNav = () => {
                         <div className='moveLink absolute text-black flex bg-orange-600 top-0 '>
                             <div className='moveX flex items-center  border-t-[0.1vh] border-white'>
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>The Royal Profile</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 1.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 1.png" alt="" />
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>The Royal Profile</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 2.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 2.png" alt="" />
                             </div>
                             <div className='moveX flex items-center  border-t-[0.1vh] border-white'>
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>The Royal Profile</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 1.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 1.png" alt="" />
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>The Royal Profile</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 2.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 2.png" alt="" />
                             </div>
                         </div>
                     </div></Link>
@@ -140,15 +140,15 @@ const FullScreenNav = () => {
                         <div className='moveLink absolute text-black flex bg-orange-600 top-0 '>
                             <div className='moveX flex items-center  border-t-[0.1vh] border-white'>
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>Boutique of Perfection</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 1.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 1.png" alt="" />
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>Boutique of Perfection</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 2.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 2.png" alt="" />
                             </div>
                             <div className='moveX flex items-center  border-t-[0.1vh] border-white'>
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>Boutique of Perfection</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 1.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 1.png" alt="" />
                                 <h2 className='whitespace-nowrap font-[font2] uppercase lg:text-[13vh] text-[6vh] text-center'>Boutique of Perfection</h2>
-                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="public/media/model 2.png" alt="" />
+                                <img className='lg:h-28 h-15 lg:mx-10 mx-5 rounded-full shrink-0 lg:w-62 w-50 object-cover' src="/media/model 2.png" alt="" />
                             </div>
                         </div>
                     </div></Link>
